@@ -38,7 +38,6 @@ I'm a passionate **[Backend developer]** with experience in **[python and java]*
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(https://www.linkedin.com/in/josiah-mutua-a00065363?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdaE7SAIVRCe9sym%2FIsKqJA%3D%3D)
+- **[Twitter]**(https://x.com/KingMutua1)
 
