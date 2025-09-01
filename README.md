@@ -1,10 +1,9 @@
-# Hi there, I'm [Josiah Mwaka]! 👋
+# Hi there, I'm Josiah Mwaka! 👋
 
-![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Backend developer]** with experience in **[python and java]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Backend developer** with experience in **python and java**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[c++]**
 - 🔭 Working on: **[alx]**
@@ -24,17 +23,12 @@ I'm a passionate **[Backend developer]** with experience in **[python and java]*
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Improving education](https://drive.google.com/file/d/1remIunmx_MiULAnhk2sWLCG5Vhr6DzrV/view?usp=sharing)
 
-![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Improving education]** is a **[project that aims to better the education systems in rural areas using technology]** built with **[python and java]**. This project demonstrates my ability to **[adapt with new terminologies]**. 
 
-### [Project 2 Title](project_2_link)
 
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
